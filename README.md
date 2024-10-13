@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BothamThakor
-- 👀 I’m interested in website development
-- 🌱 I’m currently learning HTML,Css<JS,PHP
+- 👀 I’m interested in data engineering, data analytics and data science
+- 🌱 I’m currently learning about azure data engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
